@@ -37,5 +37,5 @@ for subdomain in subdomains:
                     file.write('{0} {1} \n'.format(url, scode))   
             
                     
-          
+         
         
